@@ -1,0 +1,9 @@
+{
+  "name": "yure-tweet-express",
+  "version": "1.0.0",
+  "dependencies": {
+    "ejs": "0.4.2",
+    "express": "2.3.4",
+    "mysql": "0.9.1"
+  }
+}
