@@ -1,0 +1,8 @@
+{
+  "name": "yure-tweet-checker",
+  "version": "1.0.0",
+  "dependencies": {
+    "irc": "0.2.0",
+    "mysql": "0.9.1"
+  }
+}
