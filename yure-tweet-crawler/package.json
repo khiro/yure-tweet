@@ -1,0 +1,8 @@
+{
+  "name": "yure-tweet-crawler",
+  "version": "1.0.0",
+  "dependencies": {
+    "twitter-node": "0.0.2",
+    "mysql": "0.9.1"
+  }
+}
