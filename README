@@ -1,0 +1,5 @@
+yure-tweet-checker: counts yure tweet and when the number of tweets exceeds the threshold value, reports result to irc.
+yure-tweet-crawler: collests yure tweet using twitter stream. words are yure or yureta hiragana and kanji.
+yure-tweet-express: shows latest yure tweets list or specific yure tweets.
+
+Example site: http://yure.khiro.dotcloud.com
